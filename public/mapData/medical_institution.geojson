@@ -3658,6 +3658,18 @@
 { "type": "Feature", "properties": { "type": "診所", "name": "方圓牙醫診所", "addr": "臺北市北投區石牌路二段四十五號二樓" }, "geometry": { "type": "Point", "coordinates": [ 121.5159, 25.1163 ] } },
 { "type": "Feature", "properties": { "type": "診所", "name": "慶昇中醫診所", "addr": "臺北市士林區中山北路七段190巷1號1樓" }, "geometry": { "type": "Point", "coordinates": [ 121.5331, 25.1251 ] } },
 { "type": "Feature", "properties": { "type": "診所", "name": "名品牙醫診所", "addr": "臺北市大安區和平東路二段２５９號３樓" }, "geometry": { "type": "Point", "coordinates": [ 121.5438, 25.025 ] } },
-{ "type": "Feature", "properties": { "type": "診所", "name": "安麗整形外科診所", "addr": "臺北市大安區復興南路1段215號6樓" }, "geometry": { "type": "Point", "coordinates": [ 121.5439, 25.0392 ] } }
+{ "type": "Feature", "properties": { "type": "診所", "name": "安麗整形外科診所", "addr": "臺北市大安區復興南路1段215號6樓" }, "geometry": { "type": "Point", "coordinates": [ 121.5439, 25.0392 ] } },
+{
+	"type": "Feature",
+	"properties": {
+	  "type": "醫院",
+	  "name": "長慎醫院",
+	  "addr": "中壢區中山東路二段525號1-2樓"
+	},
+	"geometry": {
+	  "type": "Point",
+	  "coordinates": [121.24637, 24.947989]
+	}
+  }
 ]
 }

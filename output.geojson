@@ -1,0 +1,5173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "同安里、新埔里、自強里、寶安里、莊敬里",
+        "location": "桃園市桃園區同安社區發展協會",
+        "address": "桃園市桃園區同安里同安街455巷1弄1號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3002576,
+          25.0197582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "寶慶里",
+        "location": "桃園市桃園區寶慶里辦公處",
+        "address": "桃園市桃園區寶慶里同德三街52號之一及同德五街300號對面槌球場"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2945279,
+          25.0113133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "泰山里、中原里、玉山里",
+        "location": "桃園市桃園區泰山里辦公處",
+        "address": "桃園市桃園區泰山里宏昌六街19巷96號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2996942,
+          24.9889999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "龍壽里",
+        "location": "桃園市桃園區龍壽里辦公處",
+        "address": "桃園市桃園區龍壽里龍泉六街68號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2716859,
+          24.9837677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "三民里、萬壽里、東山里",
+        "location": "桃園市桃園區三民里辦公處",
+        "address": "桃園市桃園區三民里中山東路128號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3207338,
+          24.9976481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "中原里、中山里、中平里",
+        "location": "桃園市桃園區中原里辦公處",
+        "address": "桃園市桃園區中原里泰昌六街45號1樓及桃園市桃園區中原里18鄰宏昌七街74號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2945563,
+          24.9869643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "汴洲里、春日里、自強里",
+        "location": "桃園市桃園區汴洲里辦公處",
+        "address": "桃園市桃園區汴洲里峨嵋二街26號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9991032,
+          24.6788411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "中埔里",
+        "location": "桃園市社區文化推廣協會",
+        "address": "桃園市桃園區中埔里天台街1巷7號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2898277,
+          25.0077891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "中路里、中正里、文中里、中平里、中山里",
+        "location": "桃園市中路交流協會",
+        "address": "桃園市桃園區中路里中山路710號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2935457,
+          24.9913582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "龍祥里",
+        "location": "桃園市龍祥關愛協會",
+        "address": "桃園市桃園區龍祥里11鄰中山路1308巷261號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2739265,
+          24.9853698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "中正里、中山里、文中里、中成里、中興里、光興里、泰山里、中平里",
+        "location": "財團法人真耶穌教會臺灣總會桃園分會",
+        "address": "桃園市桃園區中正里仁愛路21號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2942896,
+          24.9936347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "中成里",
+        "location": "桃園市明聖社區促進會",
+        "address": "桃園市桃園區中成里永佳街126號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2814586,
+          25.0060333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "莊敬里、自強里",
+        "location": "桃園市桃園區莊敬社區發展協會",
+        "address": "桃園市桃園區新埔七街169巷13號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2998944,
+          25.0217578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "南門里、南華里、西湖里、西門里",
+        "location": "桃園市桃園區南門社區發展協會",
+        "address": "桃園市桃園區南門里三民路三段268號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.306407,
+          24.990875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "福林里、豐林里",
+        "location": "桃園市桃園區陽明社區發展協會",
+        "address": "桃園市桃園區福林里陽明三街33號2樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3070234,
+          24.979651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "朝陽里",
+        "location": "桃園市桃園區朝陽社區發展協會",
+        "address": "桃園市桃園區朝陽里朝陽街63號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3129333,
+          24.9979292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "豐林里",
+        "location": "桃園市桃園區豐林社區發展協會",
+        "address": "桃園市桃園區三民路三段459號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3073196,
+          24.9869495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "忠義里、福元里、大業里",
+        "location": "桃園市桃園區福元社區發展協會",
+        "address": "桃園市桃園忠義里福元街135號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.318356,
+          25.0053633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "中正里",
+        "location": "桃園市向陽社會服務協會",
+        "address": "桃園市桃園區中正里縣府路256巷5弄4號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2987236,
+          24.9934696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "中正里、中平里、中泰里、中聖里",
+        "location": "桃園市新生活文化推廣協會",
+        "address": "桃園市桃園區中聖里宏昌六街316號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2889218,
+          24.9868147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "青溪里、成功里、東門里",
+        "location": "桃園市桃園區小檜溪社區發展協會",
+        "address": "桃園市桃園區清溪里鎮撫街41號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3144654,
+          24.9981991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "豐林里",
+        "location": "財團法人桃園市優勝地社會福利基金會",
+        "address": "桃園市桃園區豐林里介壽路352號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.304885,
+          24.979899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "新埔里",
+        "location": "桃園市桃園區新埔社區發展協會",
+        "address": "桃園市桃園區新埔里南通路65號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3055322,
+          25.0200494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "會稽里、大有里、寶山里",
+        "location": "桃園市桃園區大檜溪社區發展協會",
+        "address": "桃園市桃園區檜稽里興一街65巷50號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3085205,
+          25.0232888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "三民里、成功里、萬壽里、三元里、朝陽里、建國里、青溪里",
+        "location": "財團法人天主教德來會",
+        "address": "桃園市桃園區三民里三民路一段2號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3233068,
+          24.9964566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "文化里",
+        "location": "社團法人桃園市全人生命教育協會",
+        "address": "桃園市桃園區文化里中華路49號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3105851,
+          24.9907663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "中山里、中平里、中聖里",
+        "location": "社團法人台灣樂活服務發展協會",
+        "address": "桃園市桃園區中山里中平路98號18樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2927033,
+          24.9878875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "瑞慶里",
+        "location": "桃園市桃園區同德社區發展協會",
+        "address": "桃園市桃園區瑞慶里永安北路500號2樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2925425,
+          25.0194769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "龍安里、龍鳳里、龍岡里",
+        "location": "桃園市桃園區龍岡社區發展協會",
+        "address": "桃園市桃園區龍鳳里國豐二街6號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2808714,
+          24.9895262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "中山里、中泰里、中平里、中原里、中聖里",
+        "location": "桃園市桃園區五中社區發展協會",
+        "address": "桃園市桃園區中平路118號、桃園區國聖一街192號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2928435,
+          24.9866148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "光興里、泰山里",
+        "location": "桃園市加利利愛鄰全人關懷協會",
+        "address": "桃園市桃園區光興里縣府路332號4樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3008535,
+          24.9921541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "中寧里、慈文里、同安里",
+        "location": "社團法人桃園市社會服務關懷協會(中寧據點)",
+        "address": "桃園市桃園區中寧里同德二街189巷3號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2991646,
+          25.0096061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "桃園區、中德里、八德區、大同里",
+        "location": "財團法人桃園市護國宮愛心基金會",
+        "address": "桃園市桃園區中德里國際路一段401巷123號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2891798,
+          24.966487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "中和里",
+        "location": "財團法人天主教德來會（認知休憩站）",
+        "address": "桃園市桃園區永樂街147號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3092803,
+          24.9990745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "中信里",
+        "location": "桃園市失智症關懷協會（認知休憩站）",
+        "address": "桃園市桃園區中山路1000號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2853091,
+          24.9885825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "大正里、大福里",
+        "location": "桃園市八德區正福社區發展協會",
+        "address": "桃園市八德區大福街29號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3009824,
+          24.9746067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "茄明里、高城里",
+        "location": "桃園市八德區明光福德協會",
+        "address": "桃園市八德區明光街8巷1號、中華路27號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2794491,
+          24.9840368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "大強里",
+        "location": "桃園市德強愛心關懷協會",
+        "address": "桃園市八德區東勇街490巷288號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3146065,
+          24.9706815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "高明里、高城里、永豐里",
+        "location": "桃園市八德區愛心關懷發展協會",
+        "address": "桃園市八德區永豐路572巷19號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2720134,
+          24.9759173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "白鷺里、茄苳里",
+        "location": "桃園市八德區白鷺社區發展協會",
+        "address": "桃園市八德區永豐路170號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2786505,
+          24.965179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "廣興里、廣德里",
+        "location": "桃園市八德區廣興社區發展協會",
+        "address": "桃園市八德區廣興路643號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2835513,
+          24.9469812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "茄明里",
+        "location": "桃園市八德區茄明社區發展協會",
+        "address": "桃園市八德區茄明里中華路27號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2818339,
+          24.9863914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "大明里、大仁里、大湖里、鶯歌區鳳祥里、鶯歌區鳳鳴里、鶯歌區鳳福里",
+        "location": "桃園市八德區明仁社區發展協會",
+        "address": "桃園市八德區大明里興隆街11巷8號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3271327,
+          24.9674124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "大興里、大華里、大順里、大昌里、大愛里",
+        "location": "桃園市八德區大興社區發展協會",
+        "address": "桃園市八德區介壽路二段361巷96號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.299837,
+          24.9470509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "大安里、大竹里",
+        "location": "桃園市八德區大安社區發展協會",
+        "address": " 桃園市八德區建安街110號(第二活動中心)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3127737,
+          24.9570859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "瑞祥里",
+        "location": "桃園市八德區瑞祥里辦公處",
+        "address": "桃園市八德區介壽路二段1233巷46-1號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2991575,
+          24.9302426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "大千里",
+        "location": "桃園市八德區大千里辦公處",
+        "address": "桃園市八德區大千里東勇街19巷5號、桃園市八德區永福街一段74巷8號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3063101,
+          24.960359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "大勇里",
+        "location": "桃園市八德區大勇里辦公處",
+        "address": "桃園市八德區大勇里自強街60號(健促)、桃園市八德區大勇里忠勇街425號(共餐)、桃園市八德區大勇里忠勇街424巷63弄202號(大型活動)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3035374,
+          24.9676743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "大信里",
+        "location": "桃園市八德區榮光服務協會",
+        "address": "桃園市八德區大信里大興路1025號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.302581,
+          24.9366555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "高城里、高明里、永豐里、桃園區龍祥里、中壢區普忠里",
+        "location": "社團法人台灣多元社會福利協會",
+        "address": "桃園市八德區高城里高城六街73號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.272848,
+          24.9783719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "大漢里、大義里、大勇里",
+        "location": "桃園市八德區大漢社區發展協會",
+        "address": "桃園市八德區大漢里東勇一路51號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3049146,
+          24.9641465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "瑞泰里、瑞德里、瑞發里、大順里",
+        "location": "桃園市八德區瑞泰社區發展協會",
+        "address": "桃園市八德區瑞泰里2鄰介壽路2段583巷12號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.298272,
+          24.94165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "大成里、大慶里",
+        "location": "桃園市八德區大成社區發展協會",
+        "address": "桃園市八德區大成里建國路1199號2樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2987409,
+          24.9576953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "陸光里、大智里",
+        "location": "桃園市陸光關懷協會",
+        "address": "桃園市八德區陸光里陸光街50巷1號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.29728,
+          24.961571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "大智里、大福里、大正里、大忠里、大宏里",
+        "location": "桃園市八德區老人會",
+        "address": "桃園市八德區大智里福國北街220號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.296878,
+          24.9631198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "瑞發里",
+        "location": "桃園市八德區瑞發服務協會",
+        "address": "桃園市八德區瑞發里介壽路二段946巷2號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2970742,
+          24.9350034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "竹園里、霄裡里、龍友里",
+        "location": "桃園市八德區竹霄社區發展協會",
+        "address": "桃園市八德區竹園里15鄰霄裡路12號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2639455,
+          24.9330497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "高城里、高明里、茄明里、永豐里",
+        "location": "桃園市八德區高城社區發展協會",
+        "address": "桃園市八德區高城里高城六街60號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2743124,
+          24.9789644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "茄苳里",
+        "location": "桃園市茄苳愛心關懷協會",
+        "address": "桃園市八德區永豐路262.264號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2760757,
+          24.9695402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "大和里、大城里",
+        "location": "財團法人弘道老人福利基金會（認知休憩站）",
+        "address": "桃園市八德區建國路1124號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.296874,
+          24.956655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "橫峰里、埔心里、溪海里、五權里、青埔里",
+        "location": "社團法人中華民國士林靈糧堂社會福利協會（認知休憩站）",
+        "address": "桃園市大園區橫峰里大豐二街67號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2193557,
+          25.0233717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "大海里、三石里、埔心里",
+        "location": "桃園市大園區大海社區發展協會",
+        "address": "桃園市大園區大海里建國8村164號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2313591,
+          25.0612739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "溪海里",
+        "location": "桃園市大園區溪海社區發展協會",
+        "address": "桃園市大園區溪海里聖德北路22巷76弄1號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1898403,
+          25.0468388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "海口里",
+        "location": "桃園市大園區海口社區發展協會",
+        "address": "桃園市大園區海口里4鄰漁港路15號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2419478,
+          25.1080996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "北港里",
+        "location": "桃園市大園區北港社區發展協會",
+        "address": "桃園市大園區北港里9鄰潮音二路226號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1692268,
+          25.0762557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "後厝里、圳頭里、沙崙里",
+        "location": "桃園市大園區后厝社區發展協會",
+        "address": "桃園市大園區後厝里中華路595號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.21154,
+          25.0757637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "埔心里、大海里、田心里",
+        "location": "桃園市大園區埔心社區發展協會",
+        "address": "桃園市大園區埔心里中正東路一段671巷23號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2292704,
+          25.0394907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "南港里",
+        "location": "桃園市大園區南港社區發展協會",
+        "address": "桃園市大園區南港里文治路20號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1689512,
+          25.0507602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "和平里、溪海里",
+        "location": "桃園市大園區和平社區發展協會",
+        "address": "桃園市大園區和平里14鄰平南路77巷9號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1804569,
+          25.0395766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "大園里、田心里、埔心里、溪海里、南港里、橫峰里、後厝里、北港里",
+        "location": "桃園市大園區大園社區發展協會",
+        "address": "桃園市桃園區大園里32鄰和平東路89號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.200378,
+          25.0626706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "三石里、?林里",
+        "location": "桃園市大園區三石社區發展協會",
+        "address": "桃園市大園區三石里三和路5號2樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2582328,
+          25.0730407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "橫峰里、大園里、中壢區青埔里",
+        "location": "桃園市大園區橫峰社區發展協會",
+        "address": "桃園市大園區橫峰里中山南路361-1號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2105625,
+          25.0172573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "竹圍里、海口里、沙崙里",
+        "location": "桃園市大園區竹圍社區發展協會",
+        "address": "桃園市大園區竹圍里8鄰90-6號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2426057,
+          25.0937699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "圳頭里",
+        "location": "桃園市大園區圳頭社區發展協會",
+        "address": "桃園市大園區圳頭里濱海路二段432號及後館路25號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1989886,
+          25.0895208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "沙崙里、後厝里、竹圍里",
+        "location": "桃園市大園區沙崙社區發展協會",
+        "address": "桃園市大園區沙崙里12鄰41-3號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2363261,
+          24.8670422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "內海里",
+        "location": "桃園市大園區內海社區發展協會",
+        "address": "桃園市大園區內海里2鄰學府路11號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1897258,
+          25.0853755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "正義里、信義里、普強里、普仁里、普忠里",
+        "location": "社團法人桃園市木匠的家協會（認知休憩站）",
+        "address": "桃園市中壢區正義里中北路二段387號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2315504,
+          24.9541082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "湧豐里、湧安里、莊敬里、平安里、福林里、山峰里、東勢里、南勢里",
+        "location": "社團法人桃園市愛鄰舍協會（認知休憩站）",
+        "address": "桃園市平鎮區湧豐里南豐路194號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2059003,
+          24.899911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "仁武里、仁文里",
+        "location": "桃園市大溪區崎頂社區發展協會",
+        "address": "桃園市大溪區仁武里1鄰公園路30號2樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2840099,
+          24.90478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "中新里",
+        "location": "桃園市大溪區中興社區發展協會",
+        "address": "桃園市大溪區中新里大鶯路1450巷26號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3168774,
+          24.9285522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "仁善里、仁美里",
+        "location": "桃園市大溪區仁善社區發展協會",
+        "address": "桃園市大溪區仁善里仁德街19號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2789883,
+          24.9089157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "仁和里、仁愛里、仁文里、光明里",
+        "location": "桃園市大溪區仁和社區發展協會",
+        "address": "桃園市大溪區仁和里仁和七街159號二樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2731122,
+          24.8946812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "仁文里",
+        "location": "桃園市大溪區長青老人會",
+        "address": "桃園市大溪區仁文里介壽路1267巷33號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2858209,
+          24.8986685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "南興里",
+        "location": "桃園市大溪區南興社區發展協會",
+        "address": "桃園市大溪區南興里仁和路二段190巷29號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2636901,
+          24.9043549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "月眉里",
+        "location": "桃園市大溪區月眉社區發展協會",
+        "address": "桃園市大溪區月眉里月湖路56號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2878716,
+          24.8896111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "永福里、月眉里",
+        "location": "桃園市大溪區永福社區發展協會",
+        "address": "桃園市大溪區永福里信義路1125號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3241836,
+          24.8943641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "一德里",
+        "location": "桃園市大溪區一德里辦公處",
+        "address": "桃園市大溪區一德里文化路253號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2884527,
+          24.8761443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "僑愛里",
+        "location": "桃園市大溪區僑愛里辦公處",
+        "address": "桃園市大溪區僑愛里僑愛一街55號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.293594,
+          24.9228674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "仁義里",
+        "location": "桃園市大溪區仁義里辦公處",
+        "address": "桃園市大溪區仁義里介壽路211巷2弄32號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2933655,
+          24.9197678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "一心里、義和里、田心里",
+        "location": "桃園市愛鎮協會",
+        "address": "桃園市大溪區田心里東二路31號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2917933,
+          24.8838419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "福仁里、興和里",
+        "location": "桃園市大溪區興福社區發展協會",
+        "address": "桃園市大溪區福仁里仁愛路11號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2857261,
+          24.8851249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "一心里、田心里",
+        "location": "桃園市大溪區下田心社區發展協會",
+        "address": "桃園市大溪區一新里民權東路94巷29號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2912414,
+          24.8813572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "一心里、一德里、田心里、興和里、福仁里、月眉里、永福里、美華里",
+        "location": "財團法人雙福社會福利慈善事業基金會（認知休憩站）",
+        "address": "桃園市大溪區一心里文化路161號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.290521,
+          24.8778394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "石磊里、赤欄里、後湖里",
+        "location": "桃園市新屋區石磊社區發展協會",
+        "address": "桃園市新屋區石磊里三民路二段276號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0793911,
+          24.9931067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "頭洲里、中壢區過嶺里",
+        "location": "桃園市新屋區頭洲社區發展協會",
+        "address": "桃園市新屋區頭洲里中山東路2段668巷48號2樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.127571,
+          24.9724529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "下埔里",
+        "location": "桃園市新屋區下埔社區發展協會",
+        "address": "桃園市新屋區下埔里東興路2段1100號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0446521,
+          25.0076028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "埔頂里",
+        "location": "桃園市新屋區埔頂社區發展協會",
+        "address": "桃園市新屋區埔頂里埔頂路279巷50號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1106361,
+          24.9551243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "大坡里",
+        "location": "桃園市新屋區大坡社區發展協會",
+        "address": "桃園市新屋區大坡里國校路1號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0421102,
+          24.9593212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "永興里、永安里、下埔里",
+        "location": "桃園市新屋區永興社區發展協會",
+        "address": "桃園市新屋區永興里永慶一路273號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0301168,
+          25.0042562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "社子里",
+        "location": "桃園市新屋區社子社區發展協會",
+        "address": "桃園市新屋區社子里社福路235號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0816765,
+          24.956797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "永安里",
+        "location": "桃園市新屋區永安社區發展協會",
+        "address": "桃園市新屋區永安里保生路55號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0278546,
+          24.9883033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "後庄里",
+        "location": "桃園市新屋區後庄社區發展協會",
+        "address": "桃園市新屋區後庄里5鄰東福路2段515號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.007381,
+          24.9486401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "笨港里",
+        "location": "桃園市新屋區笨港社區發展協會",
+        "address": "桃園市新屋區笨港里聖賢路39號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0191751,
+          24.9752513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "後湖里",
+        "location": "桃園市新屋區後湖社區發展協會",
+        "address": "桃園市新屋區後湖里三民路1段68號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.099484,
+          24.972138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "?榔里",
+        "location": "桃園市新屋區?榔社區發展協會",
+        "address": "桃園市新屋區?榔里保安路439號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0505978,
+          24.9714058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "深圳里",
+        "location": "桃園市新屋區深圳社區發展協會",
+        "address": "桃園市新屋區深圳里4鄰20-5號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0077058,
+          24.956586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "下田里",
+        "location": "桃園市新屋區下田社區發展協會",
+        "address": "桃園市新屋區下田里中山西路2段780號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0595326,
+          24.9831352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "東明里",
+        "location": "桃園市新屋區東明社區發展協會",
+        "address": "桃園市新屋區東明里3鄰5號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0865346,
+          24.9717083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "石牌里",
+        "location": "桃園市新屋區石牌社區發展協會",
+        "address": "桃園市新屋區東興路二段568號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0523893,
+          25.0028964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "九斗里、清華里、新屋里、埔頂里",
+        "location": "桃園市新屋區老人會",
+        "address": "桃園市新屋區九斗里2鄰五谷路775巷45號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1192582,
+          24.9606723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "新生里",
+        "location": "桃園市新屋區新生社區發展協會",
+        "address": "桃園市新屋區新生里中山路370號2樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1041169,
+          24.9728844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "龍星里、中正里、上華里、龍潭里",
+        "location": "桃園市龍潭區大中正社區發展協會",
+        "address": "桃園市龍潭區龍星里中正路204號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2168242,
+          24.8646052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "三和里",
+        "location": "桃園市龍潭區三和社區發展協會",
+        "address": "桃園市龍潭區三和里番子窩路5號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.173306,
+          24.857088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "三林里、富林里、建林里",
+        "location": "桃園市龍潭區三林社區發展協會",
+        "address": "桃園市龍潭區三林里富華街三林段395巷140號-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2270874,
+          24.8383448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "武漢里、中興里、東興里、北興里、黃唐里",
+        "location": "桃園市龍潭區中興社區發展協會",
+        "address": "桃園市龍潭區武漢里武漢路98號3樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2344735,
+          24.8714365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "聖德里、八德里",
+        "location": "桃園市龍潭區八德社區發展協會",
+        "address": "桃園市龍潭區聖德里湧光路533號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1951038,
+          24.8820866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "中正里、上華里、龍星里、上林里",
+        "location": "財團法人台灣省桃園縣中國基督教靈糧堂世界佈道會中壢靈糧堂(龍潭活水靈糧堂)",
+        "address": "桃園市龍潭區中正里龍華路440號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.217375,
+          24.8568407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "三坑里",
+        "location": "桃園市龍潭區三坑里辦公處",
+        "address": "桃園市龍潭區三坑里三坑老街66號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2485009,
+          24.8444473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "上華里",
+        "location": "桃園市龍潭區上華里辦公處",
+        "address": "桃園市龍潭區上華里大順路209號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2178753,
+          24.8507941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "百年里",
+        "location": "桃園市龍潭區百年里辦公處",
+        "address": "桃園市龍潭區百年二街15巷21號B1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.209178,
+          24.8779421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "高原里、三和里、高平里",
+        "location": "桃園市龍潭區高原里辦公處",
+        "address": "桃園市龍潭區高原里中原路三段135號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1920408,
+          24.8265076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "中興里、東興里、武漢里、北興里、黃唐里",
+        "location": "桃園市龍潭區中興里辦公處",
+        "address": "桃園市龍潭區中興里中興路240巷38號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2347724,
+          24.8756266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "佳安里",
+        "location": "桃園市龍潭區佳安里辦公處",
+        "address": "桃園市龍潭區佳安里佳安西路2巷2號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2053963,
+          24.8444927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "八德里",
+        "location": "桃園市龍潭區八德里辦公處",
+        "address": "桃園市龍潭區八德里梅龍路2號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2019584,
+          24.8734995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "大平里、三坑里",
+        "location": "桃園市龍潭區石門社區發展協會",
+        "address": "桃園市龍潭區大平里永平路80號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2461549,
+          24.8288697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "龍潭區、三水里、三和里、新竹縣、東平里、巨埔里、新北里",
+        "location": "桃園市龍潭區三水社區發展協會",
+        "address": "龍新路三和段1420巷137號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1526006,
+          24.8442878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "上林里",
+        "location": "桃園市龍潭區上林社區發展協會",
+        "address": "桃園市龍潭區上林里金龍路112巷51號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2120385,
+          24.8555299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "高平里",
+        "location": "桃園市龍潭區高平社區發展協會",
+        "address": "桃園市龍潭區高平里龍源路11號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2065369,
+          24.8267527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "九龍里、武漢里、祥和里",
+        "location": "桃園市龍潭區九龍社區發展協會",
+        "address": "桃園市龍潭區九龍里五福街330號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2255095,
+          24.8641792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "中山里",
+        "location": "桃園市龍潭區中山社區發展協會",
+        "address": "桃園市龍潭區中山里華南路1-1號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2462732,
+          24.847782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "佳安里、三坑里、上華里、建林里",
+        "location": "桃園市龍潭區佳安社區發展協會",
+        "address": "桃園市龍潭區佳安里中正路佳安段403號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.244378,
+          24.8489257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "黃唐里、永興里",
+        "location": "桃園市龍潭區黃唐社區發展協會",
+        "address": "桃園市龍潭區黃唐里武中路10號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2053963,
+          24.8444927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "凌雲里、龍祥里",
+        "location": "桃園市龍潭區凌雲社區發展協會",
+        "address": "桃園市龍潭區凌雲里干城路19巷28號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2069458,
+          24.8687908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "烏林里、烏樹林里",
+        "location": "桃園市龍潭區烏林社區發展協會",
+        "address": "桃園市龍潭區中豐路401號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.209735,
+          24.8811007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "觀音里",
+        "location": "桃園市觀音區觀音社區發展協會",
+        "address": "桃園市觀音區觀音里中山路8號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0819564,
+          25.0366488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "白玉里",
+        "location": "桃園市觀音區白玉社區發展協會",
+        "address": "桃園市觀音區白玉里玉林路一段180號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0853033,
+          25.0395862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "新坡里",
+        "location": "桃園市觀音區新坡社區發展協會",
+        "address": "桃園市觀音區新坡里新生路76巷5弄2號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1366473,
+          25.0144839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "保障里、草漯里、塔腳里",
+        "location": "桃園市觀音區保障社區發展協會",
+        "address": "桃園市觀音區保障里保障三路298巷8號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1489786,
+          25.0654319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "保生里",
+        "location": "桃園市觀音區保生社區發展協會",
+        "address": "桃園市觀音區保生里保成路32號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0559849,
+          25.0157507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "塔腳里",
+        "location": "桃園市觀音區塔腳社區發展協會",
+        "address": "桃園市觀音區塔腳里廣大路1085號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1638717,
+          25.0442181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "草漯里、草新里",
+        "location": "桃園市觀音區草漯社區發展協會",
+        "address": "桃園市觀音區草漯里忠孝路82號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.142512,
+          25.0499974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "廣興里、坑尾里",
+        "location": "桃園市觀音區廣興社區發展協會",
+        "address": "桃園市觀音區廣興里中山路1段413號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0836245,
+          25.0355953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "草新里",
+        "location": "桃園市觀音區草新社區發展協會",
+        "address": "桃園市觀音區草新里新生路1148號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1440671,
+          25.0386541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "大堀里",
+        "location": "桃園市觀音區大堀社區發展協會",
+        "address": "桃園市觀音區大堀里新華路2段72號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1268472,
+          25.0032043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "上大里、富源里、中壢區過嶺里",
+        "location": "桃園市觀音區上大里辦公處",
+        "address": "桃園市觀音區上大里大湖路一段510號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1475466,
+          24.9781094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "大同里",
+        "location": "桃園市觀音區大同里辦公處",
+        "address": "桃園市觀音區大同里新富路一段595號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1379111,
+          25.0036309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "崙坪里",
+        "location": "桃園市觀音區崙坪里辦公處",
+        "address": "桃園市觀音區崙坪里8鄰忠愛路2段157號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1583984,
+          24.9991439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "藍埔里、坑尾里",
+        "location": "桃園市觀音區藍埔社區發展協會",
+        "address": "桃園市觀音區藍埔里新華路一段711號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.116643,
+          24.9968693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "廣福里、大同里、草漯里",
+        "location": "桃園市觀音區廣福社區發展協會",
+        "address": "桃園市觀音區廣福里福山路2段403巷6號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.153825,
+          25.0277659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "樹林里、草漯里",
+        "location": "桃園市觀音區樹林社區發展協會",
+        "address": "桃園市觀音區樹林里泰安街209號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1231633,
+          25.050683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "富林里",
+        "location": "桃園市觀音區富林社區發展協會",
+        "address": "桃園市觀音區富林里大觀路三段463號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1206255,
+          25.0363208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "富源里、上大里",
+        "location": "桃園市觀音區富源社區發展協會",
+        "address": "桃園市觀音區富源里新富路801巷65號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1381531,
+          24.9748565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "普仁里",
+        "location": "桃園市中壢區普仁里辦公處",
+        "address": "桃園市中壢區普仁里日新路20號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2386621,
+          24.9540583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "光明里",
+        "location": "桃園市中壢區光明里辦公處",
+        "address": "桃園市中壢區光明里新明路223號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2169784,
+          24.9622244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "龍平里、龍安里、龍冬里、龍友里、忠貞里",
+        "location": "桃園市中壢區龍平里辦公處",
+        "address": "桃園市中壢區龍平里龍平七街30號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2554881,
+          24.9308993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "忠義里",
+        "location": "桃園市中壢區忠義里辦公處",
+        "address": "桃園市中壢區忠義里忠義路69之1號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2392455,
+          24.9621603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "自立里",
+        "location": "桃園市中壢區自立里辦公處",
+        "address": "桃園市中壢區自立里自立五街82號2樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.251646,
+          24.9663424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "華愛里、仁美里、仁愛里",
+        "location": "桃園市中壢區華愛里辦公處",
+        "address": "桃園市中壢區華愛里華勛街37巷11號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2578817,
+          24.9518235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "福德里、內壢里、成功里",
+        "location": "桃園市中壢區福德里辦公處",
+        "address": "桃園市中壢區福德里9鄰成功路79巷54號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2586288,
+          24.9752992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "內厝里、芝芭里、月眉里",
+        "location": "桃園市中壢區內厝里辦公處",
+        "address": "桃園市中壢區內厝里9鄰崇德路99號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1813294,
+          24.9888234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "仁和里、仁德里、華愛里、仁祥里、華勛里",
+        "location": "桃園市中壢區仁和里辦公處",
+        "address": "桃園市中壢區仁和里17鄰仁德四街96號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2620584,
+          24.9527708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "中山里",
+        "location": "桃園市中壢區中山里辦公處",
+        "address": "桃園市中壢區中山里榮民路396號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2616131,
+          24.9617283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "普義里",
+        "location": "桃園市中壢區普義里辦公處",
+        "address": "桃園市中壢區普義里立和路29號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2307895,
+          24.9589752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "仁祥里",
+        "location": "桃園市中壢區仁祥里辦公處",
+        "address": "桃園市中壢區仁祥里華祥一街21號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.227379,
+          24.9578929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "龍岡里、龍東里",
+        "location": "桃園市中壢區龍岡里辦公處",
+        "address": "桃園市中壢區龍岡里龍岡路3段742號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2433095,
+          24.9262174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "龍德里",
+        "location": "桃園市中壢區龍德里辦公處",
+        "address": "桃園市中壢區龍德里龍吉二街153號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2368487,
+          24.9363953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "龍慈里、龍昌里、至善里",
+        "location": "桃園市中壢區龍慈里辦公處",
+        "address": "桃園市中壢區龍慈里後寮一路230號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2463008,
+          24.9380522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "興仁里",
+        "location": "桃園市中壢區興仁社區發展協會",
+        "address": "桃園市中壢區興仁里榮光街11號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2620428,
+          24.9654618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "復興里、文化里",
+        "location": "中華光明之家共生家園協會(復興據點)",
+        "address": "桃園市中壢區復興里10鄰長樂街39號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2497058,
+          24.9777978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "永福里、忠福里、幸福里",
+        "location": "桃園市中壢區永福社區發展協會",
+        "address": "桃園市中壢區永福里南園二路90號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2333325,
+          24.9720159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "東興里、健行里",
+        "location": "桃園市中壢區東興社區發展協會",
+        "address": "桃園市中壢區東興里中北路二段76巷10號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2252159,
+          24.9499161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "中央里",
+        "location": "桃園市松鶴會",
+        "address": "桃園區中壢區中央里元化路182-2號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.227427,
+          24.9601041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "中央里、普慶里、普義里",
+        "location": "桃園市中壢老人會",
+        "address": "桃園市中壢中央里區元化路182-2號2樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.227427,
+          24.9601041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "龍興里",
+        "location": "桃園市中壢區龍興社區發展協會",
+        "address": "桃園市中壢區龍興里13鄰龍岡路3段37巷92弄102號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2321902,
+          24.9392125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "洽溪里、青埔里、芝芭里",
+        "location": "桃園市中壢區洽溪社區發展協會",
+        "address": "桃園市中壢區洽溪里民權路4段546號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2020347,
+          25.0087636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "過嶺里、高雙里",
+        "location": "桃園市中壢區過嶺社區發展協會",
+        "address": "桃園市中壢區過嶺里雙福路9號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1767211,
+          24.9600529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "山東里",
+        "location": "桃園市中壢區山東社區發展協會",
+        "address": "桃園市中壢區山東里9鄰山東路1010號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1722655,
+          25.0159863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "信義里、明德里、普忠里",
+        "location": "財團法人桃園市亮詮公益慈善基金會",
+        "address": "桃園市中壢區信義里嘉善街37-39號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2338018,
+          24.9516414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "林森里、新興里、明德里、健行里、東興里",
+        "location": "社團法人台灣樂活服務發展協會(執信據點)",
+        "address": "桃園市中壢區林森里執信一街167號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2267278,
+          24.9447132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "龍慈里",
+        "location": "社團法人台灣樂活服務發展協會(豐收據點)",
+        "address": "桃園市中壢區龍慈里後寮一路320號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2464053,
+          24.9360163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "舊明里",
+        "location": "財團法人台灣省桃園縣中華基督教中壢浸信會",
+        "address": "桃園市中壢區舊明里民族路53號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.21385,
+          24.955691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "信義里、正義里、水尾里、明德里、仁福里、平鎮區貿易里",
+        "location": "財團法人台灣省中國基督教靈糧世界佈道會中壢靈糧堂",
+        "address": "桃園市中壢區信義里杭州路71號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2354062,
+          24.9511081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "新明里、光明里、永光里",
+        "location": "社團法人桃園市濟世功德協進會(中壢站)",
+        "address": "桃園市中壢區光明里明德路178號2樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.216931,
+          24.959406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "石頭里",
+        "location": "社團法人中華民國國際慈善文教協會",
+        "address": "桃園市中壢區石頭里永樂路33號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.222319,
+          24.9528762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "普強里",
+        "location": "社團法人台灣樂活服務發展協會(普強據點)",
+        "address": "桃園市中壢普強里區民有街17號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2381127,
+          24.9530723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "明德里、信義里、正義里、新興里",
+        "location": "財團法人台灣省新竹縣基督教改革宗長老會竹東教會",
+        "address": "桃園市中壢區明德里吉長街34號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2306259,
+          24.9465039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "復華里",
+        "location": "桃園市中壢區復華社區發展協會",
+        "address": "桃園市中壢區復華里復華街188號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2482174,
+          24.9729133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "林森里、新興里、振興里",
+        "location": "桃園市中壢區新振社區發展協會",
+        "address": "桃園市中壢區林森路90號(南區老人文康活動中心)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2276512,
+          24.9466287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "新街里、金華里、水尾里、興國里",
+        "location": "桃園市樂活銀髮族協會",
+        "address": "桃園市中壢區新街里環北路398號15樓-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2263378,
+          24.9654722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "忠福里、幸福里",
+        "location": "社團法人桃園市幸福家庭培力協會",
+        "address": "桃園市中壢區忠福里福安二街50號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2320003,
+          24.9686888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "石頭里",
+        "location": "社團法人桃園市愛鄰舍協會（復興據點）",
+        "address": "桃園市中壢區石頭里13鄰復興路161號3樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2236603,
+          24.9538364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "五福里、廣興里",
+        "location": "社團法人桃園市愛鄰舍協會（新明據點）",
+        "address": "桃園市中壢區五福里中正路447號4樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2141156,
+          24.9565163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "忠福里",
+        "location": "桃園市中壢區忠福社區發展協會",
+        "address": "桃園市中壢區忠福里華廈路158號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2297268,
+          24.9731556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "月眉里",
+        "location": "桃園市中壢區月眉社區發展協會",
+        "address": "桃園市中壢區月眉里月桃路828號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1844323,
+          25.0103118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": NaN,
+        "location": "銀髮族(中壢站)",
+        "address": "桃園市中壢區自強里榮民路48號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2606098,
+          24.9695159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "長庚里、樂善里",
+        "location": "桃園市龜山區長庚里辦公處",
+        "address": "桃園市龜山區長庚里長庚醫護新村80號B1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3825146,
+          25.0577498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "山頂里",
+        "location": "桃園市龜山區山頂里辦公處",
+        "address": "桃園市龜山區山頂里明興街36號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3303499,
+          24.9862567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "新嶺里",
+        "location": "桃園市龜山區新嶺里辦公處",
+        "address": "桃園市龜山區新嶺里寶石街9號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3659674,
+          25.0004539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "南上里",
+        "location": "桃園市龜山區南上社區發展協會",
+        "address": "桃園市龜山區南上里民生北路一段386-1號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2998991,
+          25.041185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "幸福里",
+        "location": "桃園市龜山區幸福社區發展協會",
+        "address": "桃園市龜山區幸福里幸福1街38號之1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3343712,
+          24.988225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "龜山里、大同里、中興里、陸光里、精忠里、楓樹里、兔坑里",
+        "location": "社團法人桃園市社會服務關懷協會(龜山據點)",
+        "address": "桃園市龜山區自強東路164號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3433294,
+          24.9958282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "嶺頂里、新嶺里",
+        "location": "桃園市龜山區嶺頂社區發展協會",
+        "address": "桃園市龜山區嶺頂里萬壽路二段6巷61號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3646832,
+          25.0030466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "大湖里、大華里、大崗里、公西里、文化里",
+        "location": "桃園市龜山區大湖社區發展協會",
+        "address": "桃園市龜山區大湖里忠義路二段638巷5號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.358407,
+          25.0572356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "大華里",
+        "location": "社團法人桃園市龜山區傳愛社區關懷協會",
+        "address": "桃園市龜山區大華里文化七路118巷7號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3662689,
+          25.0508328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "兔坑里",
+        "location": "桃園市龜山區兔坑社區發展協會",
+        "address": "桃園市龜山區兔坑里大同路918號；兔坑里幸美九街35號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3581972,
+          24.9879762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "陸光里",
+        "location": "桃園市龜山區陸光社區發展協會",
+        "address": "桃園市龜山區陸光里陸光路79號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3318651,
+          24.9955031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "福源里",
+        "location": "桃園市家庭照顧者關懷協會",
+        "address": "桃園市龜山區福源里大同路356巷62弄59-1號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3472162,
+          24.9844207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "新興里",
+        "location": "桃園市龜山區貿商社區發展協會",
+        "address": "桃園市龜山區新興里中興路196巷2號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.333649,
+          24.990121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "龍華里",
+        "location": "桃園市龜山區龍華社區發展協會",
+        "address": "桃園市龜山區龍華里萬壽路一段422巷22弄43-1號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4007703,
+          25.0177656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "大同里",
+        "location": "桃園市龜山區大同社區發展協會",
+        "address": "桃園市龜山區大同里明德路203巷10號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3422725,
+          24.9912429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "舊路里",
+        "location": "桃園市龜山區舊路社區發展協會",
+        "address": "桃園市龜山區舊路里振興路749巷1弄18號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3610426,
+          25.0180686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "大坑里、南美里、南上里",
+        "location": "社團法人中華關聖帝君文化交流協會",
+        "address": "桃園市龜山區大坑里大坑路三段150巷6弄1號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3379214,
+          25.0549378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "新路里、中興里、幸福里",
+        "location": "社團法人桃園市失能老人關懷協會（認知休憩站）",
+        "address": "桃園市八德區樹仁三街601號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.309724,
+          24.975134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "南興里",
+        "location": "桃園市蘆竹區南興里辦公處",
+        "address": "桃園市蘆竹區南興里南福街100號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2928468,
+          25.0403867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "長興里",
+        "location": "桃園市蘆竹區長興里辦公處",
+        "address": "桃園市蘆竹區長興里長興路四段75-1號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2696902,
+          25.0667802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "山鼻里",
+        "location": "桃園市蘆竹區山鼻里辦公處",
+        "address": "桃園市蘆竹區山鼻里長興路二段26巷1號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2911966,
+          25.0668825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "宏竹里",
+        "location": "桃園市蘆竹區宏竹社區發展協會",
+        "address": "桃園市蘆竹區宏竹里大華街101號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2565529,
+          25.0402952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "南崁里",
+        "location": "桃園市蘆竹區南崁社區發展協會",
+        "address": "桃園市蘆竹區南崁里南崁路152號2樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.294755,
+          25.0472557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "上興里、中興里",
+        "location": "桃園市中興愛鄰服務協會",
+        "address": "桃園市蘆竹區上興里上興路188號(對面)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2611125,
+          25.0189044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "羊稠里",
+        "location": "社團法人台灣樂活服務發展協會(蘆竹法國號)",
+        "address": "桃園市蘆竹區羊稠里中山路72號6樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2992413,
+          25.0548899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "南榮里、南興里、興榮里",
+        "location": "桃園市蘆竹區南榮社區發展協會",
+        "address": "桃園市蘆竹區南榮里桃園街9號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2934318,
+          25.0427929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "錦興里、興榮里",
+        "location": "桃園市蘆竹區錦興社區發展協會",
+        "address": "桃園市蘆竹區錦興里光明路二段143巷29號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2866201,
+          25.0481972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "瓦窯里",
+        "location": "桃園市蘆竹區瓦窯社區發展協會",
+        "address": "桃園市蘆竹區瓦窯里仁愛路一段2號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2934588,
+          25.0507131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "營盤里、營福里",
+        "location": "桃園市蘆竹區營盤社區發展協會",
+        "address": "桃園市蘆竹區營福里中山路108巷21號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2992276,
+          25.0564227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "海湖里",
+        "location": "桃園市蘆竹區海湖社區發展協會",
+        "address": "桃園市蘆竹區海湖里海湖東路217號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2969674,
+          25.0784359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "順興里",
+        "location": "桃園市蘆竹區順興社區發展協會",
+        "address": "桃園市蘆竹區順興里南昌路36號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2882166,
+          25.0418068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "蘆竹里",
+        "location": "桃園市蘆竹區蘆竹社區發展協會",
+        "address": " (三)桃園市蘆竹區蘆竹里南青路850巷50號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2625919,
+          25.0527783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "外社里",
+        "location": "桃園市蘆竹區外社社區發展協會",
+        "address": "桃園市蘆竹區外社里山林路二段490號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3059508,
+          25.0821089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "中山里",
+        "location": "桃園市蘆竹區中山社區發展協會",
+        "address": "桃園市蘆竹區中山里福祿一街40號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2970404,
+          25.0553931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "五福里、福祿里",
+        "location": "桃園市蘆竹區五福社區發展協會",
+        "address": "桃園市蘆竹區五福里福祿五街18號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2958501,
+          25.0535806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "內厝里",
+        "location": "桃園市蘆竹區內厝社區發展協會",
+        "address": "桃園市蘆竹區內厝里南山路2段394巷67號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.287584,
+          25.0715423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "興榮里",
+        "location": "歡喜學堂推廣協會(蘆竹區興榮里)",
+        "address": "桃園市蘆竹區興榮里中正路287號3樓之2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2916803,
+          25.0476014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "正興里",
+        "location": "歡喜學堂推廣協會(蘆竹區正興里)",
+        "address": "桃園市蘆竹區正興里奉化路104巷45弄11號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2880416,
+          25.0389082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "山腳里",
+        "location": "桃園市蘆竹區山腳社區發展協會",
+        "address": "桃園市蘆竹區山腳里南山路三段357巷10號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2860617,
+          25.0867288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "新興里",
+        "location": "桃園市蘆竹區新興社區發展協會",
+        "address": "桃園市蘆竹區新興里大竹路一巷500弄18號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2757657,
+          25.0044315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "坑口里",
+        "location": "桃園市蘆竹區坑口里回饋關懷公益協會",
+        "address": "週三:桃園市蘆竹區坑口里坑?路661巷2號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2749531,
+          25.1055557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "吉祥里",
+        "location": "桃園市蘆竹區吉祥社區發展協會",
+        "address": "桃園市蘆竹區吉祥里吉林路105號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2984647,
+          25.0495458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "坑子里",
+        "location": "桃園市蘆竹區坑子社區發展協會",
+        "address": "桃園市蘆竹區坑子里2鄰山林路三段102巷9號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3162726,
+          25.0776742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "中福里、中興里、新興里",
+        "location": "桃園市蘆竹區中福社區發展協會",
+        "address": "桃園市蘆竹區中福里龍安街二段985號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2586493,
+          25.0057748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "長壽里、吉祥里",
+        "location": "歡喜學堂推廣協會(認知休憩站)",
+        "address": "桃園市蘆竹區吉林路156巷13號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2993306,
+          25.0502756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "永平里、梅溪里、青山里",
+        "location": "桃園市楊梅區永平里辦公處",
+        "address": "桃園市楊梅區中山北路2段268巷16號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1734339,
+          24.9112116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "金龍里",
+        "location": "桃園市楊梅區金龍社區發展協會",
+        "address": "桃園市楊梅區金龍里中興路236-1號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1864277,
+          24.914424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "梅溪里、瑞溪里、光華里、瑞塘里、三民里",
+        "location": "財團法人臺北市阿瑪社會福利慈善事業基金會(中山據點)",
+        "address": "桃園市楊梅區梅溪里中山北路2段191號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1719849,
+          24.9090448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "紅梅里、秀才里、梅新里",
+        "location": "桃園市楊梅志願服務協會",
+        "address": "桃園市楊梅區梅溪里校前路5號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1441231,
+          24.9056321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "三民里、金溪里、裕成里",
+        "location": "社團法人桃園市健康家庭教育協會",
+        "address": "桃園市楊梅區三民里中山北路2段87巷11號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1694078,
+          24.9075978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "楊明里、梅溪里、大同里",
+        "location": "社團法人台灣樂活服務發展協會(一品據點)",
+        "address": "桃園市楊梅區楊明里新農街429巷32弄2號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1582522,
+          24.9129679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "光華里、仁美里、埔心里",
+        "location": "社團法人台灣樂活服務發展協會(榮耀堂據點)",
+        "address": "桃園市楊梅區光華里新興街125巷42號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1836793,
+          24.9161194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "紅梅里、梅新里、中山里、永寧里、大同里",
+        "location": "社團法人台灣樂活服務發展協會（宣聖堂）",
+        "address": "桃園市楊梅區紅梅里校前路32巷25-1號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1452086,
+          24.9040257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "仁美里、埔心里、高上里、平鎮區平鎮里、鎮興里",
+        "location": "財團法人臺北市阿瑪社會福利慈善事業基金會(永美據點)",
+        "address": "桃園市楊梅區仁美里永美路15號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1870755,
+          24.9222942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "瑞塘里、埔心里、四維里",
+        "location": "桃園市城鄉發展婦女協會",
+        "address": "桃園市楊梅區瑞塘里萬福街119號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1782984,
+          24.9123865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "大同里、中山里",
+        "location": "桃園市楊梅區大合社區發展協會",
+        "address": "楊梅區大同里9鄰自立街2號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1491171,
+          24.911004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "裕成里、裕新里",
+        "location": "桃園市楊梅區山城社區發展協會",
+        "address": "桃園市楊梅區裕成里裕成路170巷16號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1601975,
+          24.8983342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "四維里、瑞塘里、瑞溪里、埔心里、光華里、三民里、金龍里",
+        "location": "財團法人臺北市阿瑪社會福利慈善基金會（四維據點）",
+        "address": "桃園市楊梅區四維里四維路118號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1811464,
+          24.9130295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "瑞原里、富豐里",
+        "location": "桃園市楊梅區瑞原社區發展協會",
+        "address": "桃園市楊梅區瑞原里民豐路506-1號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1118478,
+          24.9295908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "上田里",
+        "location": "桃園市楊梅區上田社區發展協會",
+        "address": "桃園市楊梅區上田里和平路87號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1263549,
+          24.9370905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "豐野里、富岡里、新屋區望間里",
+        "location": "中華光明之家共生家園協會(豐野據點)",
+        "address": "桃園市楊梅區豐野里中正路265號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1366715,
+          24.9242108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "頭湖里、三湖里",
+        "location": "桃園市楊梅區三湖社區發展協會",
+        "address": "桃園市楊梅區三湖里楊湖路2段491號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1084369,
+          24.9120201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "水美里",
+        "location": "桃園市楊梅區水美社區發展協會",
+        "address": "桃園區楊梅區水美里楊新路2段2-1號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1370072,
+          24.9189988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "上湖里、三湖里",
+        "location": "桃園市楊梅區上湖社區發展協會",
+        "address": "桃園市楊梅區上湖里楊湖路3段679-1號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0824825,
+          24.912026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "東流里",
+        "location": "桃園市楊梅區大東社區發展協會",
+        "address": "桃園市楊梅區東流里甡甡路440號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.12953,
+          24.895851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "豐野里",
+        "location": "桃園市楊梅區豐野社區發展協會",
+        "address": "桃園市楊梅區豐野里4鄰信義街83巷25弄23號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0842962,
+          24.9353748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "永寧里、梅新里",
+        "location": "桃園市楊梅區永揚社區發展協會",
+        "address": "桃園市楊梅區永寧里校前路324巷148號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1481731,
+          24.8979831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "楊梅里、楊江里、紅梅里、梅新里",
+        "location": "社團法人中華民國紅十字會桃園市分會",
+        "address": "桃園市楊梅區楊梅里大模街10號2樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1446149,
+          24.9128991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "高榮里、新榮里",
+        "location": "桃園市楊梅區高榮社區發展協會",
+        "address": "桃園市楊梅區高榮里幼獅路2段390-2號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1653116,
+          24.9373697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "員本里、瑞原里",
+        "location": "桃園市楊梅區員本社區發展協會",
+        "address": "桃園市楊梅區員本里2鄰員本路532-1號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1061714,
+          24.9383134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "大平里、紅梅里、秀才里",
+        "location": "桃園市楊梅大平友善照護協會",
+        "address": "桃園市楊梅區大平里秀才路178巷2號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1408561,
+          24.901896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "建安里",
+        "location": "桃園市平鎮區建安社區發展協會",
+        "address": "桃園市平鎮區建安里平東路688號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2386483,
+          24.9125722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "北勢里、金陵里、北華里",
+        "location": "社團法人台灣樂活服務發展協會(行道會據點)",
+        "address": "桃園市平鎮區北勢里莒光路1號2、3樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2224103,
+          24.9470528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "新勢里",
+        "location": "桃園市平鎮區守望相助推廣協會",
+        "address": "桃園市平鎮區新勢里延平路一段162號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2163465,
+          24.9508172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "北華里、北安里、北勢里、金陵里",
+        "location": "桃園市平鎮區北勢社區發展協會",
+        "address": "桃園市平鎮區北華里振平街153號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2206706,
+          24.9424973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "東社里",
+        "location": "桃園市平鎮區東社社區發展協會",
+        "address": "桃園市平鎮區東社里圳南路50巷23號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2449266,
+          24.9224473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "南勢里、平南里",
+        "location": "桃園市平鎮區南勢社區發展協會",
+        "address": "桃園市平鎮區南勢里中豐路南勢二段317-1號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2114906,
+          24.9108739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "北貴里、北富里",
+        "location": "桃園市平鎮區獅子林社區發展協會",
+        "address": "桃園市平鎮區北貴里大仁街46號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2252771,
+          24.928176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "湧光里、莊敬里",
+        "location": "社團法人桃園市愛鄰舍協會(湧光據點)",
+        "address": "桃園市平鎮區湧光里湧光路2巷13弄15號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2101711,
+          24.8987545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "鎮興里、平鎮里、仁美里",
+        "location": "社團法人桃園市安平鎮庄文化協會",
+        "address": "桃園市平鎮區鎮興里中興路平鎮段229號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1942469,
+          24.905638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "高雙里、雙連里",
+        "location": "桃園市平鎮區高連社區發展協會",
+        "address": "桃園市平鎮區高雙里高雙路80號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1890124,
+          24.9550918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "北興里、北貴里、北富里",
+        "location": "社團法人桃園市地球村代間藝術教育促進會",
+        "address": "桃園市平鎮區北貴里正義路70號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2226484,
+          24.9298503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "義民里",
+        "location": "桃園市平鎮區義民社區發展協會",
+        "address": "桃園市平鎮區義民里復旦路2段23巷8號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2050324,
+          24.9475403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "東勢里",
+        "location": "桃園市平鎮區東勢社區發展協會",
+        "address": "桃園市平鎮區東勢里金陵路五段55號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2313254,
+          24.9103443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "平鎮里、鎮興里",
+        "location": "桃園市平鎮區平鎮社區發展協會",
+        "address": "桃園市平鎮區平鎮里南平路2段516巷進去800公尺"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1943131,
+          24.9246065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "北興里",
+        "location": "桃園市平鎮區北興社區發展協會",
+        "address": "桃園市平鎮區北興里金陵路2段353號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2246957,
+          24.9374512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "華安里、東安里、新安里",
+        "location": "桃園市平鎮區三安社區發展協會",
+        "address": " 桃園市平鎮區華安里平東路246巷16弄2號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2485775,
+          24.9161611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "福林里",
+        "location": "桃園市平鎮區福林里辦公處",
+        "address": "桃園市平鎮區福林里東豐路326號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2192394,
+          24.901819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "平興里、宋屋里、義民里",
+        "location": "桃園市平鎮區平興里辦公處",
+        "address": "桃園市平鎮區平興里廣泰路85號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2044529,
+          24.9455788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "北勢里",
+        "location": "桃園市平鎮區北勢里辦公處",
+        "address": "桃園市平鎮區北勢里和平路52號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.221415,
+          24.948894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "雙連里",
+        "location": "桃園市平鎮區雙連里辦公處",
+        "address": "桃園市平鎮區雙連里民族路雙連二段118巷22號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1831372,
+          24.9601449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "復興里、復旦里、廣達里",
+        "location": "桃園市平鎮區復興里辦公處",
+        "address": "桃園市平鎮區復興里復興街55號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2049137,
+          24.9543327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "新榮里、新勢里",
+        "location": "桃園市平鎮區新榮里辦公處",
+        "address": "桃園市平鎮區新榮里振興西路112-1號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2144761,
+          24.9457402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "義興里",
+        "location": "桃園市平鎮區義興里辦公處",
+        "address": "桃園市平鎮區義興里義興街80號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2093191,
+          24.9497783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "莊敬里",
+        "location": "桃園市平鎮區莊敬里辦公處",
+        "address": "桃園市平鎮區莊敬里自強街100號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2148874,
+          24.9041552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "貿易里、忠貞里、龍興里",
+        "location": "桃園市平鎮區貿易里辦公處",
+        "address": "桃園市平鎮區貿易里貿五路36號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2528022,
+          24.9273644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "廣仁里",
+        "location": "桃園市平鎮區廣仁里辦公處",
+        "address": "1.桃園市平鎮區廣仁里廣南路151號\n 2.桃園市平鎮區廣仁里新光路二段9巷62弄5、7號(新光分站)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.206604,
+          24.9399186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "里辦公處",
+        "sub_type": "廣興里",
+        "location": "桃園市平鎮區廣興里辦公處",
+        "address": "1.桃園市平鎮區廣興里明德北路11號\n 2.桃園市平鎮區廣興里明德北路8-1號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2145357,
+          24.9532394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "新富里",
+        "location": "桃園市銀髮族協會",
+        "address": "桃園市平鎮區新富里環南路三段88號(平鎮社教文化中心)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2177667,
+          24.9397176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "三民里",
+        "location": "財團法人台灣基督長老教會泰雅爾中會三民教會",
+        "address": "桃園市復興區三民里19鄰基國派路511巷31號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.344127,
+          24.836748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "高平里、上林里、中正里、富林里、",
+        "location": "財團法人新生醫護管理專科學校",
+        "address": "桃園市龍潭區高平里中豐路高平段418號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2086908,
+          24.8319108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "診所、護理機構",
+        "sub_type": "楊梅里",
+        "location": "民安診所",
+        "address": "桃園市楊梅區楊梅里大成路175號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1457028,
+          24.9124462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "診所、護理機構",
+        "sub_type": "永平里",
+        "location": "姜博文診所",
+        "address": "桃園市楊梅區永平里永美路335號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.182186,
+          24.9170199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "長期照顧中心",
+        "sub_type": "北貴里",
+        "location": "財團法人桃園市私立國宏老人長期照顧中心(養護型)",
+        "address": "桃園市平鎮區北貴里大勇街86號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2237309,
+          24.9284999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "醫院",
+        "sub_type": "普慶里",
+        "location": "長慎醫院",
+        "address": "桃園市中壢區普慶里中山東路二段525號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2461445,
+          24.9468469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "診所、護理機構",
+        "sub_type": "莊敬里",
+        "location": "活力診所",
+        "address": "桃園市中壢區莊敬里莊敬路160號2樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2574098,
+          24.9680255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "診所、護理機構",
+        "sub_type": "大忠里、大智里",
+        "location": "旭登護理之家",
+        "address": "桃園市八德區大忠里永福街116號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3029667,
+          24.9621265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "診所、護理機構",
+        "sub_type": "高明里、高城里、茄冬里",
+        "location": "敦仁診所附設居家護理所",
+        "address": "桃園市八德區高明里1鄰永豐路572巷21號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2720668,
+          24.9759293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "診所、護理機構",
+        "sub_type": "田心里、一心里",
+        "location": "張輝鵬診所",
+        "address": "桃園市大溪區田心里民權東路94巷13號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2917419,
+          24.8821082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "診所、護理機構",
+        "sub_type": "上興里",
+        "location": "晨光診所",
+        "address": "桃園市蘆竹區上興里大竹路395-1號2樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2640038,
+          25.0208561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "診所、護理機構",
+        "sub_type": "錦興里",
+        "location": "晨新診所",
+        "address": "桃園市蘆竹區錦興里中正路357號4-5樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.290965,
+          25.0490041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "診所、護理機構",
+        "sub_type": "大竹里",
+        "location": "慶成診所",
+        "address": "桃園市蘆竹區大竹里大新路107號2樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.255919,
+          25.0246703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "診所、護理機構",
+        "sub_type": "橫峰里",
+        "location": "沛田心理治療所",
+        "address": "桃園市大園區橫峰里橫湳路203號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2088863,
+          25.0573662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "醫院",
+        "sub_type": "三元里、成功里、大有里",
+        "location": "臺北榮民總醫院桃園分院",
+        "address": "桃園市桃園區三元里成功路三段100號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3241788,
+          25.0043516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "其他(人民團體、社區發展協會、學校)",
+        "sub_type": "高平里、上林里、中正里、富林里、",
+        "location": "財團法人新生醫護管理專科學校",
+        "address": "桃園市龍潭區高平里中豐路高平段418號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2086908,
+          24.8319108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "診所、護理機構",
+        "sub_type": "楊梅里",
+        "location": "民安診所",
+        "address": "桃園市楊梅區楊梅里大成路175號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1457028,
+          24.9124462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "診所、護理機構",
+        "sub_type": "永平里",
+        "location": "姜博文診所",
+        "address": "桃園市楊梅區永平里永美路335號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.182186,
+          24.9170199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "長期照顧中心",
+        "sub_type": "北貴里",
+        "location": "財團法人桃園市私立國宏老人長期照顧中心(養護型)",
+        "address": "桃園市平鎮區北貴里大勇街86號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2237309,
+          24.9284999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "醫院",
+        "sub_type": "普慶里",
+        "location": "長慎醫院",
+        "address": "桃園市中壢區普慶里中山東路二段525號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2461445,
+          24.9468469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "診所、護理機構",
+        "sub_type": "莊敬里",
+        "location": "活力診所",
+        "address": "桃園市中壢區莊敬里莊敬路160號2樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2574098,
+          24.9680255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "診所、護理機構",
+        "sub_type": "大忠里、大智里",
+        "location": "旭登護理之家",
+        "address": "桃園市八德區大忠里永福街116號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3029667,
+          24.9621265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "診所、護理機構",
+        "sub_type": "高明里、高城里、茄冬里",
+        "location": "敦仁診所附設居家護理所",
+        "address": "桃園市八德區高明里1鄰永豐路572巷21號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2720668,
+          24.9759293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "診所、護理機構",
+        "sub_type": "田心里、一心里",
+        "location": "張輝鵬診所",
+        "address": "桃園市大溪區田心里民權東路94巷13號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2917419,
+          24.8821082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "診所、護理機構",
+        "sub_type": "上興里",
+        "location": "晨光診所",
+        "address": "桃園市蘆竹區上興里大竹路395-1號2樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2640038,
+          25.0208561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "診所、護理機構",
+        "sub_type": "錦興里",
+        "location": "晨新診所",
+        "address": "桃園市蘆竹區錦興里中正路357號4-5樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.290965,
+          25.0490041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "診所、護理機構",
+        "sub_type": "大竹里",
+        "location": "慶成診所",
+        "address": "桃園市蘆竹區大竹里大新路107號2樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.255919,
+          25.0246703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "診所、護理機構",
+        "sub_type": "橫峰里",
+        "location": "沛田心理治療所",
+        "address": "桃園市大園區橫峰里橫湳路203號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2088863,
+          25.0573662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "醫院",
+        "sub_type": "三元里、成功里、大有里",
+        "location": "臺北榮民總醫院桃園分院",
+        "address": "桃園市桃園區三元里成功路三段100號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3241788,
+          25.0043516
+        ]
+      }
+    }
+  ]
+}

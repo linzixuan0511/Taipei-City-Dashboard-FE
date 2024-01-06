@@ -2121,19 +2121,19 @@
 						"circle-color": [
 							"match",
 							["get", "main_type"],
-							"銀髮族服務",
+							"社區發展協會",
 							"#F49F36",
-							"身障機構",
+							"醫院",
 							"#F65658",
-							"兒童與少年服務",
+							"學校",
 							"#F5C860",
-							"社區服務、NPO",
+							"其他人民團體",
 							"#9AC17C",
-							"婦女服務",
+							"診所、護理機構",
 							"#4CB495",
-							"貧困危機家庭服務",
+							"長期照顧中心",
 							"#569C9A",
-							"保護性服務",
+							"里辦公室",
 							"#60819C",
 							"#2F8AB1"
 						]
@@ -2141,11 +2141,11 @@
 					"property": [
 						{
 							"key": "main_type",
-							"name": "主要類別"
+							"name": "類別"
 						},
 						{
 							"key": "sub_type",
-							"name": "次要分類"
+							"name": "里別"
 						},
 						{
 							"key": "name",
@@ -2158,7 +2158,7 @@
 					],
 					"type": "circle",
 					"size": "big",
-					"title": "社福機構"
+					"title": "社區照顧關懷據點暨巷弄長照站"
 				}
 			],
 			"map_filter": {
@@ -2181,7 +2181,7 @@
 				"types": ["BarChart", "DonutChart"],
 				"unit": "間"
 			},
-			"name": "社福機構",
+			"name": "社會福利",
 			"source": "社會局",
 			"time_from": null,
 			"time_to": null,
@@ -2192,6 +2192,91 @@
 			"use_case": "根據機構空間的分佈情況，檢視社會福利機構是否均勻分布，同時整合市有土地、社會住宅等潛在可使用之空間，以研擬增設位置與類型的方案。",
 			"links": [
 				"https://data.taipei/dataset/detail?id=cabdf272-e0ec-4e4e-9136-f4b8596f35d9"
+			],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"101": {
+			"id": 101,
+			"index": "welfare_institutions",
+			"map_config": [
+				{
+					"index": "socl_welfare_organization_plc",
+					"paint": {
+						"circle-color": [
+							"match",
+							["get", "main_type"],
+							"社區發展協會",
+							"#F49F36",
+							"醫院",
+							"#F65658",
+							"學校",
+							"#F5C860",
+							"其他人民團體",
+							"#9AC17C",
+							"診所、護理機構",
+							"#4CB495",
+							"長期照顧中心",
+							"#569C9A",
+							"里辦公室",
+							"#60819C",
+							"#2F8AB1"
+						]
+					},
+					"property": [
+						{
+							"key": "main_type",
+							"name": "類別"
+						},
+						{
+							"key": "sub_type",
+							"name": "里別"
+						},
+						{
+							"key": "name",
+							"name": "名稱"
+						},
+						{
+							"key": "address",
+							"name": "地址"
+						}
+					],
+					"type": "circle",
+					"size": "big",
+					"title": "社區照顧關懷據點暨巷弄長照站"
+				}
+			],
+			"map_filter": {
+				"mode": "byParam",
+				"byParam": {
+					"xParam": "main_type"
+				}
+			},
+			"chart_config": {
+				"color": [
+					"#F65658",
+					"#F49F36",
+					"#F5C860",
+					"#9AC17C",
+					"#4CB495",
+					"#569C9A",
+					"#60819C",
+					"#2F8AB1"
+				],
+				"types": ["BarChart", "DonutChart"],
+				"unit": "間"
+			},
+			"name": "社區照顧關懷據點暨巷弄長照站",
+			"source": "社會局",
+			"time_from": null,
+			"time_to": null,
+			"update_freq": null,
+			"update_freq_unit": null,
+			"short_desc": "顯示社會福利機構點位及機構類型",
+			"long_desc": "顯示社會福利機構點位及機構類型，資料來源為桃園市社會局內部資料，每月15日更新。",
+			"use_case": "根據機構空間的分佈情況，檢視社會福利機構是否均勻分布，同時整合市有土地、社會住宅等潛在可使用之空間，以研擬增設位置與類型的方案。",
+			"links": [
+				"https://ws.tycg.gov.tw/1121110"
 			],
 			"tags": [],
 			"contributors": ["tuic"]
@@ -2290,6 +2375,47 @@
 				}
 			],
 			"source": "交通局",
+			"time_from": null,
+			"time_to": null,
+			"update_freq": null,
+			"update_freq_unit": null,
+			"contributors": ["tuic"]
+		},
+		"901": {
+			"id": 901,
+			"index": "med_station",
+			"map_config": [
+				{
+					"index": "med_station_view",
+					"property": [
+						{
+							"key": "stationname",
+							"name": "藥局名稱"
+						},
+						{
+							"key": "address",
+							"name": "地址"
+						}
+					],
+					"type": "symbol",
+					"icon": "med",
+					"title": "高齡友善藥局"
+				}
+			],
+			"name": "高齡友善藥局",
+			"chart_config": {
+				"types": ["MapLegend"]
+			},
+			"chart_data": [
+				{
+					"type": "symbol",
+					"color": null,
+					"name": "藥局",
+					"value": null,
+					"icon": "med"
+				}
+			],
+			"source": "社會局",
 			"time_from": null,
 			"time_to": null,
 			"update_freq": null,
@@ -2544,6 +2670,96 @@
 			],
 			"name": "醫療院所分布",
 			"source": "衛生局",
+			"contributors": ["tuic"]
+		},
+		"906": {
+			"id": 906,
+			"index": "medical_hospitals",
+			"map_config": [
+				{
+					"index": "medical_hospitals",
+					"paint": {
+						"circle-color": [
+							"match",
+							["get", "type"],
+							"醫院",
+							"#86e9f6",
+							"復健診所",
+							"#03a9f4",
+							"#9D9152"
+							
+
+						],
+						"circle-radius": [
+							"interpolate",
+							["linear"],
+							["zoom"],
+							12.99,
+							2,
+							13,
+							[
+								"match",
+								["get", "type"],
+								"診所",
+								2.5,
+								"醫院",
+								5,
+								3
+							],
+							18,
+							["match", ["get", "type"], "診所", 6, "醫院", 14, 8]
+						]
+					},
+					"property": [
+						{
+							"key": "type",
+							"name": "類型"
+						},
+						{
+							"key": "name",
+							"name": "名稱"
+						},
+						{
+							"key": "addr",
+							"name": "地址"
+						}
+					],
+					"type": "circle",
+					"title": "醫療機構"
+				}
+			],
+			"map_filter": {
+				"mode": "byParam",
+				"byParam": {
+					"xParam": "type"
+				}
+			},
+			"chart_config": {
+				"types": ["MapLegend"],
+				"unit": "間"
+			},
+			"chart_data": [
+				{
+					"type": "circle",
+					"name": "醫院",
+					"color": "#86e9f6",
+					"value": 34
+				},
+				{
+					"type": "circle",
+					"name": "復健診所",
+					"color": "#03a9f4",
+					"value": 36
+				},
+				{
+					"type": "circle",
+					"name": "長期照護中心",
+					"color": "#9D9152",
+					"value": 67
+				}
+			],
+			"name": "桃園醫療院所分布",
+			"source": "社會局",
 			"contributors": ["tuic"]
 		},
 		"107": {

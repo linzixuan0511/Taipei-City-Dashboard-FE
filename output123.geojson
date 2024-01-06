@@ -1,0 +1,3393 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "新大明藥局",
+        "address": "八德區大明街21號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2959437,
+          24.9690936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "興豐藥局",
+        "address": "八德區介壽路2段1175號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2975445,
+          24.9316916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "嘉家藥局",
+        "address": "八德區介壽路一段782號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2999713,
+          24.9630218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "環球聯合藥局",
+        "address": "八德區介壽路一段831號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3000994,
+          24.9617315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "宏昌藥局",
+        "address": "八德區介壽路一段890號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2993639,
+          24.9599183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "悅康藥局",
+        "address": "八德區介壽路一段916號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2993068,
+          24.9593532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "新寶樹藥局",
+        "address": "八德區介壽路一段974號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2991712,
+          24.958027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "佳美大藥局",
+        "address": "八德區介壽路一段六八八號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3004256,
+          24.9646162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "健民大藥局",
+        "address": "八德區介壽路二段282號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2976937,
+          24.9500267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "博泰藥局",
+        "address": "八德區介壽路二段982號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2972305,
+          24.93405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "厚仁藥局",
+        "address": "八德區永福街11號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3008044,
+          24.962682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "誠泰藥局",
+        "address": "八德區東勇街51-2號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.306655,
+          24.961958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "壽德藥局",
+        "address": "八德區桃德路八十四號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2958506,
+          24.9701606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "晨鴻藥師藥局",
+        "address": "八德區桃鶯路7號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3264353,
+          24.9718147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "鶯康藥局",
+        "address": "八德區桃鶯路95號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3282275,
+          24.9704578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "大千中西藥師藥局",
+        "address": "八德區高城二街9巷22號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2756723,
+          24.9790842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "家恩藥局",
+        "address": "八德區陸光街45-1號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.297508,
+          24.9612745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "吉康生活藥局",
+        "address": "八德區義勇街120號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.304446,
+          24.96344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "第二店廣福藥局",
+        "address": "八德區廣福路91號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2969197,
+          24.9590959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "和生藥局",
+        "address": "八德區興豐路588號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2934982,
+          24.9305111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "永固安藥局",
+        "address": "大園區中山南路56號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1976363,
+          25.0628045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "園正藥局",
+        "address": "大園區中正東路75號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2003114,
+          25.0631277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "銘方大藥局",
+        "address": "大園區中華路32號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1982026,
+          25.0664857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "大園藥局",
+        "address": "大園區中華路49號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.198088,
+          25.066773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "唯新藥局",
+        "address": "大園區忠孝一街11號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.197726,
+          25.065851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "?林村藥局",
+        "address": "大園區果林路100號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2586152,
+          25.0753442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "青埔長青藥師藥局",
+        "address": "大園區新生路4段251號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.19857,
+          25.0666877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "永耘藥局",
+        "address": "大溪區介壽路64號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.294669,
+          24.922425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "德安堂藥局",
+        "address": "大溪區介壽路892號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2837586,
+          24.9003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "欣康藥局",
+        "address": "大溪區員林路2段390-6號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2677094,
+          24.8840957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "資生大藥局",
+        "address": "大溪區康莊路132號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2880172,
+          24.8814182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "大溪藥局",
+        "address": "大溪區康莊路160號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2885907,
+          24.8808181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "中壢聯合藥局",
+        "address": "中壢區大同路131號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2221326,
+          24.9566776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "全國大藥局",
+        "address": "中壢區中山東路二段133號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2393621,
+          24.9531632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "日進藥局",
+        "address": "中壢區中山東路二段156號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2393252,
+          24.9526887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "中壢環東藥局",
+        "address": "中壢區中山東路二段193號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2401191,
+          24.9521351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "全球永美大藥局",
+        "address": "中壢區中山東路二段530號1至2樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.245483,
+          24.9469766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "仁德堂藥局",
+        "address": "中壢區中山路481號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2154038,
+          24.9568867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "佳愷藥局",
+        "address": "中壢區中北路47號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2367599,
+          24.9561115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "慧康藥局",
+        "address": "中壢區中北路二段101號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2255204,
+          24.9512185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "祥合藥局",
+        "address": "中壢區中北路二段431號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2320972,
+          24.9542877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "中日大藥局",
+        "address": "中壢區中北路二段78號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2251583,
+          24.9506357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "佳佳藥局",
+        "address": "中壢區中央西路二段210號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2128783,
+          24.9601372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "中國藥師藥局",
+        "address": "中壢區中央西路二段34號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2175246,
+          24.9582752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "生富藥師藥局",
+        "address": "中壢區中央西路二段76號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2162249,
+          24.9585094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "劉藥局",
+        "address": "中壢區中平路169號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2219228,
+          24.9558345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "中壢中正藥局",
+        "address": "中壢區中正路363號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2162657,
+          24.95535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "家佳聯合藥局",
+        "address": "中壢區中光路14號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2257355,
+          24.9571212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "領耀大藥局",
+        "address": "中壢區元化路97號1F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2282622,
+          24.9584047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "大和藥局",
+        "address": "中壢區元化路二段27號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.222133,
+          24.962246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "崧德堂藥局",
+        "address": "中壢區文化路362號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.250791,
+          24.9791929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "中民社區藥局",
+        "address": "中壢區民族路二段182號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2036348,
+          24.9574517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "中壢民權藥局",
+        "address": "中壢區民權路326號328號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.217758,
+          24.9628709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "新生藥師藥局",
+        "address": "中壢區民權路52號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2173498,
+          24.9561573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "自立藥局",
+        "address": "中壢區永福路1013號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2523209,
+          24.9642719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "鈞育藥局",
+        "address": "中壢區吉林路127號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2503925,
+          24.9836872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "立昇藥局",
+        "address": "中壢區成功路123號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2596288,
+          24.9760265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "慧中健保藥局",
+        "address": "中壢區成章二街141號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2568637,
+          24.980304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "得群藥局",
+        "address": "中壢區自強六路42號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2480189,
+          24.9740756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "天晟社區藥局",
+        "address": "中壢區延平路151號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2293108,
+          24.9628043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "宏奇藥局",
+        "address": "中壢區延平路249號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2271218,
+          24.9614111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "內壢成章藥局",
+        "address": "中壢區忠孝路198號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2550464,
+          24.9769623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "億源藥局",
+        "address": "中壢區林森路176號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2266634,
+          24.9440996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "優良藥局",
+        "address": "中壢區長春路20號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2498715,
+          24.9791516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "榮善堂藥局",
+        "address": "中壢區前龍街9號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2536293,
+          24.9297934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "美十藥局",
+        "address": "中壢區健行路79號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2270746,
+          24.950652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "立康專業藥局",
+        "address": "中壢區莊敬路865號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.254317,
+          24.9638267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "日光健康藥局",
+        "address": "中壢區華祥一街2號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2606555,
+          24.9482142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "鴻安中西藥局",
+        "address": "中壢區新中北路2段191號1f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2625075,
+          24.9560039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "千葉大藥局",
+        "address": "中壢區新生路307號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2230636,
+          24.9643057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "躍獅新明藥局",
+        "address": "中壢區新明路66號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2149683,
+          24.9586303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "新資生榮民大藥局",
+        "address": "中壢區榮民路103號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2608522,
+          24.9682016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "回生藥局",
+        "address": "中壢區福州二街408號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.232082,
+          24.967656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "新資生福州大藥局",
+        "address": "中壢區福州二街409號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2320253,
+          24.967862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "新家福藥局",
+        "address": "中壢區福州二街419號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2325301,
+          24.9680043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "欣安藥局",
+        "address": "中壢區龍岡路3段176號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.233453,
+          24.9356424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "得康藥局",
+        "address": "中壢區龍岡路二段89.91號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2298695,
+          24.9431301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "龍東藥局",
+        "address": "中壢區龍東路205號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2530015,
+          24.9297264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "大賀藥局",
+        "address": "中壢區龍東路399號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2558308,
+          24.9333824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "新元藥局",
+        "address": "中壢區龍東路44號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2502406,
+          24.9283609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "正翰藥師藥局",
+        "address": "中壢區龍東路498號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.256865,
+          24.934799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "安利藥局",
+        "address": "中壢區龍東路504號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2571043,
+          24.9348772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "辰鴻藥局",
+        "address": "中壢區環中東路110號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2586429,
+          24.965294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "佳佑藥局",
+        "address": "中壢區環中東路241號之1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2571942,
+          24.9634082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "一心藥局",
+        "address": "中壢區環北路184號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2217999,
+          24.9660314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "平鎮中豐藥局",
+        "address": "平鎮區中豐路山頂段164號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2108979,
+          24.9003707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "閤家康聯合藥局",
+        "address": "平鎮區中豐路山頂段256號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2107958,
+          24.8981152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "北區藥師藥局",
+        "address": "平鎮區中豐路山頂段297號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2111599,
+          24.8977748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "瑞瑄社區大藥局",
+        "address": "平鎮區中豐路南勢二段162號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2105007,
+          24.9152629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "佳仁藥局",
+        "address": "平鎮區平東路243號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2485807,
+          24.9155574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "愛國藥師藥局",
+        "address": "平鎮區民族路二段139號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2047169,
+          24.9575633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "雙林藥師藥局",
+        "address": "平鎮區民族路二段187號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2038166,
+          24.9569337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "好的快藥局",
+        "address": "平鎮區和平路123號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2206462,
+          24.9473092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "全球和平藥局",
+        "address": "平鎮區和平路160號1、2樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2198655,
+          24.9467556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "恬心藥局",
+        "address": "平鎮區延平路二段214號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2101738,
+          24.9472339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "新昕藥局",
+        "address": "平鎮區東社里龍南路92號1F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.246026,
+          24.923828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "建德藥局",
+        "address": "平鎮區金陵路103號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.222959,
+          24.9476774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "大天藥局",
+        "address": "平鎮區金陵路二段6號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2224931,
+          24.9430617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "優達藥局",
+        "address": "平鎮區廣明路66號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2150759,
+          24.9549133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "壢新藥局",
+        "address": "平鎮區廣泰路126號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2044194,
+          24.9460484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "世新藥局",
+        "address": "平鎮區廣泰路75號-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2054296,
+          24.9468766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "和康藥局",
+        "address": "桃園區三民路3段591號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.307672,
+          24.9834054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "宏偉藥師藥局",
+        "address": "桃園區上海路55號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.283031,
+          24.989688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "大業盛康藥局",
+        "address": "桃園區大業路一段101號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3168002,
+          25.0056565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "康泰藥局",
+        "address": "桃園區大業路一段323號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3127372,
+          25.0114295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "維格藥局",
+        "address": "桃園區大興西路二段129號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2974263,
+          25.0106603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "方一健保藥局",
+        "address": "桃園區中山北路133號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1962141,
+          25.0671971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "新華興清溪藥局",
+        "address": "桃園區中山東路10號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3135958,
+          24.9955154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "大廟藥局",
+        "address": "桃園區中山路158號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.309017,
+          24.9935149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "縣府仰望藥局",
+        "address": "桃園區中山路323號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3034257,
+          24.9918024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "立人堂藥局",
+        "address": "桃園區中山路397號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3008447,
+          24.9915834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "家福聯合藥局",
+        "address": "桃園區中山路623號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2939853,
+          24.9909759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "大一藥局",
+        "address": "桃園區中山路684之一號一樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2945868,
+          24.9912579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "桃園中山藥局",
+        "address": "桃園區中山路707號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2913804,
+          24.9906829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "五代全民藥局",
+        "address": "桃園區中山路97號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3107215,
+          24.9942031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "大心藥局",
+        "address": "桃園區中平路141號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2933655,
+          24.9863895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "奇美大藥局",
+        "address": "桃園區中正五街185號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3013955,
+          25.0050998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "杏昌藥局",
+        "address": "桃園區中正路1100號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2992725,
+          25.015009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "美德藥師藥局",
+        "address": "桃園區中正路230號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3104324,
+          24.9958686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "北桃藥師藥局",
+        "address": "桃園區中正路352號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.308834,
+          24.998482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "桃園中正藥局",
+        "address": "桃園區中正路373號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3079095,
+          24.9994641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "桃園民光藥局",
+        "address": "桃園區中正路569號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3049569,
+          25.0040515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "大國民藥局",
+        "address": "桃園區中正路578號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3053341,
+          25.0041144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "新華興藥局",
+        "address": "桃園區中正路665號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3037894,
+          25.0059516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "永明藥師藥局",
+        "address": "桃園區永安里永安路264號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3040228,
+          24.9984189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "同生藥師藥局",
+        "address": "桃園區永安路259號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3026215,
+          24.998713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "新永安藥師藥局",
+        "address": "桃園區永安路466號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2994357,
+          25.0008076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "永祥大藥局",
+        "address": "桃園區永安路528號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2986245,
+          25.0018145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "必安藥局",
+        "address": "桃園區永樂街64號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3110232,
+          24.9971739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "同德藥局",
+        "address": "桃園區同德十街43號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2930273,
+          25.0180739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "正安藥局",
+        "address": "桃園區安東街58號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3157592,
+          24.9926894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "安慶盛康藥局",
+        "address": "桃園區安慶街91號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2923937,
+          25.0181352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "芳鄰藥局",
+        "address": "桃園區昆明路39號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3172791,
+          24.9837174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "親子藥局",
+        "address": "桃園區南平路195號2F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3018685,
+          25.0194326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "桃園南平藥局",
+        "address": "桃園區南平路302-1號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2987865,
+          25.0185614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "品一藥局",
+        "address": "桃園區建新街76號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3118668,
+          24.9826637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "保安藥師藥局",
+        "address": "桃園區春日路1372號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3057351,
+          25.0268837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "郁祥藥局",
+        "address": "桃園區春日路216號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.315689,
+          24.9972714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "春日盛康藥局",
+        "address": "桃園區春日路305號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3146325,
+          24.9992683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "悅藥坊人文藥局",
+        "address": "桃園區桃智路6號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2947109,
+          24.9646543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "天濟堂藥局",
+        "address": "桃園區桃鶯路388之8號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.322925,
+          24.9762599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "均康藥局",
+        "address": "桃園區國聖一街27號1樓之4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2882704,
+          24.9883759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "康橋藥局",
+        "address": "桃園區國際路一段1029號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.289376,
+          24.9851549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "弘光藥師藥局",
+        "address": "桃園區國際路一段1135號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2890204,
+          24.9877473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "復興藥局",
+        "address": "桃園區復興路57號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3156281,
+          24.9909056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "尚豫中西藥局",
+        "address": "桃園區慈文路425號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2998287,
+          25.0045702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "家佳藥局",
+        "address": "桃園區瑞慶里莊一街80號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2937328,
+          25.022009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "經國藥局",
+        "address": "桃園區經國路200號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3053472,
+          25.0175313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "昌維藥師藥局",
+        "address": "桃園區縣府路22號2樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3018631,
+          24.9924066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "幸運草健保藥局",
+        "address": "桃園區縣府路280號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.299229,
+          24.993128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "全球龍安藥局",
+        "address": "桃園區龍安街111號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2799012,
+          24.9897623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "愛兒康藥局",
+        "address": "桃園區龍安街147號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2793825,
+          24.9913246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "欣立藥局",
+        "address": "桃園區龍安街181-1號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2784176,
+          24.9927832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "佳赫藥局",
+        "address": "桃園區龍壽街48號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2695364,
+          24.9791057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "佑您康聯合藥局",
+        "address": "桃園區寶山街385號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3116849,
+          25.0106521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "均安藥局",
+        "address": "桃園區寶山街61號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3177194,
+          25.0127766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "桃園寶山藥局",
+        "address": "桃園區寶山街72號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3175237,
+          25.0129399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "全安藥師藥局",
+        "address": "桃園區寶慶路429號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2900794,
+          25.0187487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "德怡藥局",
+        "address": "復興區忠孝路34號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3515274,
+          24.814607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "新屋藥局",
+        "address": "新屋區中華路294號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1069488,
+          24.9734669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "楊梅大成藥局",
+        "address": "楊梅區大成路124號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1458016,
+          24.910986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "躍獅天明藥局",
+        "address": "楊梅區大成路177號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1457307,
+          24.9124309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "弘大藥局",
+        "address": "楊梅區大華街13號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1452523,
+          24.907624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "合康美藥局",
+        "address": "楊梅區中山北路二段79號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1690971,
+          24.9081875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "中美藥局",
+        "address": "楊梅區中興路77號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1847832,
+          24.9177563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "龍泰藥局",
+        "address": "楊梅區民族路5段147巷2號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1736233,
+          24.9585579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "全球埔心大藥局",
+        "address": "楊梅區永美路395號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1796834,
+          24.9148938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "祐寧藥局",
+        "address": "楊梅區新成路42號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1467954,
+          24.9123327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "弘安藥局",
+        "address": "楊梅區新農街15號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.146515,
+          24.90923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "資生楊梅大藥局",
+        "address": "楊梅區楊新路100號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1449411,
+          24.9134609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "宜康美藥局",
+        "address": "楊梅區環東路452號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1571317,
+          24.9099926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "得康美藥局",
+        "address": "楊梅區環南路128號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1465869,
+          24.9016713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "關西第一藥局",
+        "address": "龍潭區中山村東龍路303巷2號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2132083,
+          24.8666168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "華濟藥師聯合大藥局",
+        "address": "龍潭區中正路136號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2164674,
+          24.8665971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "龍大藥局",
+        "address": "龍潭區中正路169號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2170263,
+          24.8661193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "全球龍正藥局",
+        "address": "龍潭區中正路231號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2173162,
+          24.8639097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "佳欣社區藥局",
+        "address": "龍潭區中正路262號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.217263,
+          24.8625429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "101藥師聯合藥局",
+        "address": "龍潭區中正路44號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2143593,
+          24.8689165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "弘安育藥局",
+        "address": "龍潭區北龍路144號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2145236,
+          24.8663105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "龍潭北龍藥局",
+        "address": "龍潭區北龍路275號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2173442,
+          24.8679912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "普善藥局",
+        "address": "龍潭區北龍路333號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2190417,
+          24.8689112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "龍華藥局",
+        "address": "龍潭區東龍路169號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2147168,
+          24.8632652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "新龍藥局",
+        "address": "龍潭區東龍路175號2樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2146792,
+          24.8632803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "悅發藥局",
+        "address": "龍潭區龍元路86號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2118708,
+          24.864888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "全球藥局",
+        "address": "龍潭區龍潭里北龍路185號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2153818,
+          24.8670476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "新資生龜山大藥局",
+        "address": "龜山區大同里自強東路1號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3413971,
+          24.9940272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "博爾康生活藥局",
+        "address": "龜山區大同路250號1F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3445703,
+          24.9897902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "高田藥師藥局",
+        "address": "龜山區山鶯路76號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3238051,
+          24.9900885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "嘉惠中西藥局",
+        "address": "龜山區文化七路79-1號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3635347,
+          25.0515585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "誠安生活藥局",
+        "address": "龜山區文化七路79-2號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3634929,
+          25.0516258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "文新藥局",
+        "address": "龜山區文化二路71-1號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.368117,
+          25.0559888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "文青藥局",
+        "address": "龜山區文青路202號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3882558,
+          25.0398956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "佑昌藥局",
+        "address": "龜山區民生北路一段534號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2978431,
+          25.0440079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "光峰藥局",
+        "address": "龜山區光峰路67號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3423913,
+          25.000864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "南崁南祥藥局",
+        "address": "龜山區南祥路46號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.29756,
+          25.0462459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "和信藥局",
+        "address": "龜山區南祥路58號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2978471,
+          25.0464283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "輝安大藥局",
+        "address": "龜山區新路村中原街3號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3362612,
+          24.9931648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "德佑藥局",
+        "address": "龜山區新興路293號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3655989,
+          25.0199092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "安得福藥局",
+        "address": "龜山區萬壽路1段281號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3636111,
+          25.0022179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "同安藥局",
+        "address": "龜山區萬壽路2段905號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.339485,
+          24.9956161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "桃園龜山藥局",
+        "address": "龜山區萬壽路二段896號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3393083,
+          24.9958944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "藥聯藥局",
+        "address": "龜山區萬壽路二段993號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3368701,
+          24.9947867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "桃園大竹藥局",
+        "address": "蘆竹區大竹路365號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2652365,
+          25.0199794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "宜家藥局",
+        "address": "蘆竹區大新路103號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2560643,
+          25.0248099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "大新長青藥師藥局",
+        "address": "蘆竹區大新路467號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2482272,
+          25.0241322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "德美藥師藥局",
+        "address": "蘆竹區中山路159號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2974147,
+          25.056948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "誼康藥局",
+        "address": "蘆竹區奉化路126號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2886423,
+          25.0392784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "恆安藥局",
+        "address": "蘆竹區忠孝西路36號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2921508,
+          25.0441413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "康德美藥局",
+        "address": "蘆竹區南山路3段255號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2859,
+          25.0841659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "康而美聖安藥師藥局",
+        "address": "蘆竹區南山路一段2-1號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.291574,
+          25.0488518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "喜多福藥局",
+        "address": "蘆竹區南山路三段265號1F"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2859201,
+          25.0844226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "青青藥師藥局",
+        "address": "蘆竹區南山路三段313號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.286098,
+          25.0853249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "南竹健保藥局",
+        "address": "蘆竹區南竹路一段76號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2908817,
+          25.0469952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "青新藥師藥局",
+        "address": "蘆竹區南竹路五段251之1號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2598235,
+          25.024614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "大竹藥師藥局",
+        "address": "蘆竹區南竹路五段259號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.259494,
+          25.0244438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "奇安藥局",
+        "address": "蘆竹區南昌路269號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.292111,
+          25.0400035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "明安藥局",
+        "address": "蘆竹區南崁村南竹路1-6號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.293648,
+          25.0476324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "杏洋藥局",
+        "address": "蘆竹區南崁路134號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2950657,
+          25.0463893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "長榮藥師藥局",
+        "address": "蘆竹區南崁路210號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.293796,
+          25.0483982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "南崁宜安藥師藥局",
+        "address": "蘆竹區南崁路248號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2934325,
+          25.0491537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "英登藥局",
+        "address": "蘆竹區南崁路344號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2912852,
+          25.0503894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "敏新藥局",
+        "address": "蘆竹區海山路14號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2859654,
+          25.0859307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "全郁藥師藥局",
+        "address": "蘆竹區新莊里大新路458、460號1樓"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2484025,
+          25.0243944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "立明藥局",
+        "address": "觀音區大觀路2段33-1號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1436958,
+          25.0479999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "弘宗藥局",
+        "address": "觀音區中山路15號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0822043,
+          25.036688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "金永生藥局",
+        "address": "觀音區甘泉街7號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0812735,
+          25.0369418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "新惠安藥局",
+        "address": "觀音區忠愛路一段33號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1672409,
+          24.9936044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "廣福藥局",
+        "address": "觀音區新生路41號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1357871,
+          25.0138106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "合春藥局",
+        "address": "觀音區新生路46號"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1360099,
+          25.0140248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "八德區衛生所",
+        "address": "八德區衛生所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2985398,
+          24.9475152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "大園區衛生所",
+        "address": "大園區衛生所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1953688,
+          25.0634494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "大溪區衛生所",
+        "address": "大溪區衛生所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.285496,
+          24.8844889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "中壢區衛生所",
+        "address": "中壢區衛生所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.230063,
+          24.9623219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "平鎮區衛生所",
+        "address": "平鎮區衛生所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2177819,
+          24.9460785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "桃園區衛生所",
+        "address": "桃園區衛生所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2786771,
+          24.9904757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "復興區衛生所",
+        "address": "復興區衛生所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3509884,
+          24.8151032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "新屋區衛生所",
+        "address": "新屋區衛生所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.106582,
+          24.972535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "楊梅區衛生所",
+        "address": "楊梅區衛生所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1497265,
+          24.8969228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "龍潭區衛生所",
+        "address": "龍潭區衛生所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2166744,
+          24.8640117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "龜山區衛生所",
+        "address": "龜山區衛生所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3384788,
+          24.9915168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "蘆竹區衛生所",
+        "address": "蘆竹區衛生所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.280337,
+          25.063015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stationname": "觀音區衛生所",
+        "address": "觀音區衛生所"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.083371,
+          25.0276679
+        ]
+      }
+    }
+  ]
+}

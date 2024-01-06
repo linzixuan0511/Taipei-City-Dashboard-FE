@@ -1,6 +1,12 @@
 {
 	"data": [
 		{
+			"name": "桃園行者",
+			"index": "ty",
+			"components": ["101", "901","906"],
+			"icon": "grass"
+		},
+		{
 			"name": "祝您好孕",
 			"index": "childcare",
 			"components": [
@@ -72,6 +78,8 @@
 			"components": ["90", "82", "29"],
 			"icon": "handshake"
 		},
+
+
 		{
 			"name": "收藏組件",
 			"index": "favorites",
@@ -97,5 +105,6 @@
 			],
 			"icon": "public"
 		}
+		
 	]
 }

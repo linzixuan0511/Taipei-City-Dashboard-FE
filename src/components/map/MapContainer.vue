@@ -36,7 +36,7 @@ onMounted(() => {
 			<MobileLayers :key="contentStore.currentDashboard.index" />
 		</div>
 		<div class="mapcontainer-controls hide-if-mobile">
-			<button @click="mapStore.easeToLocation([[121.536609, 25.044808], 12.5, 0, 0])">返回預設</button>
+			<button @click="mapStore.easeToLocation([[121.2107348, 24.9743011], 12.5, 0, 0])">返回預設</button>
 			<div v-for="(item, index) in mapStore.savedLocations" :key="`${item[4]}-${index}`">
 				<button @click="mapStore.easeToLocation(item)">{{ item[4] }}
 				</button>
