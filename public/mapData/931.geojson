@@ -1,0 +1,213 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "桃園市平鎮區樂齡學習中心",
+        "sub_type": "社團法人桃園市社會教育協進會",
+        "address": "桃園市平鎮區和平路190號3樓",
+        "area": "平鎮區"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2196403,
+          24.9463066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "桃園市中壢區樂齡學習中心",
+        "sub_type": "桃園市樂活領航教育學會",
+        "address": "320桃園市中壢區永樂路21號",
+        "area": "中壢區"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2226428,
+          24.953036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "桃園市蘆竹區樂齡學習中心",
+        "sub_type": "頂社國小",
+        "address": "桃園市蘆竹區山林路3段232號",
+        "area": "蘆竹區"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3201838,
+          25.0779962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "桃園市八德區樂齡學習中心",
+        "sub_type": "社團法人桃園市成人暨社區教育推廣協會",
+        "address": "桃園市八德區介壽路2段933巷40號",
+        "area": "八德區"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2986237,
+          24.9355998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "桃園市大園區樂齡學習中心",
+        "sub_type": "大園國小",
+        "address": "桃園市大園區中山南路351號",
+        "area": "大園區"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2026454,
+          25.059103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "桃園市龜山區樂齡學習中心",
+        "sub_type": "大崗國小",
+        "address": "桃園市龜山區大湖一路175號",
+        "area": "龜山區"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.3584666,
+          25.0519758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "桃園市龍潭區樂齡學習中心",
+        "sub_type": "武漢國小",
+        "address": "桃園市龍潭區武漢路100號",
+        "area": "龍潭區"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2342659,
+          24.8712085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "桃園市觀音區樂齡學習中心",
+        "sub_type": "育仁國小",
+        "address": "桃園市觀音區育仁路二段1號",
+        "area": "觀音區"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.102518,
+          25.0132163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "桃園市大溪區樂齡學習中心",
+        "sub_type": "田心國小",
+        "address": "桃園市大溪區文化路120號",
+        "area": "大溪區"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2922744,
+          24.8808439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "桃園市楊梅區樂齡學習中心",
+        "sub_type": "富岡國小",
+        "address": "桃園市楊梅區豐野里中正路147號",
+        "area": "楊梅區"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1366715,
+          24.9242108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "桃園市桃園區樂齡學習中心",
+        "sub_type": "桃園市教育志工聯盟",
+        "address": "桃園市桃園區永安路1054號",
+        "area": "桃園區"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.2871438,
+          25.0092683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "桃園市復興區樂齡學習中心",
+        "sub_type": "羅浮國小",
+        "address": "桃園市復興區羅浮村3鄰16號",
+        "area": "復興區"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.360962,
+          24.797705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "main_type": "桃園市新屋區樂齡學習中心",
+        "sub_type": "桃園市樂齡發展協會",
+        "address": "327桃園市新屋區中正路 110巷9號",
+        "area": "新屋區"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.1044425,
+          24.9761942
+        ]
+      }
+    }
+  ]
+}
